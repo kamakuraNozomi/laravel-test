@@ -20,6 +20,7 @@
 <body class="antialiased">
     <h1>Laravel-Test</h1>
     <p>Test Deploy</p>
+    <p>Test Commit2</p>
 </body>
 
 </html>
