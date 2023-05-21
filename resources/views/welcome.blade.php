@@ -19,6 +19,7 @@
 
 <body class="antialiased">
     <h1>Laravel-Test</h1>
+    <p>Test</p>
 </body>
 
 </html>
